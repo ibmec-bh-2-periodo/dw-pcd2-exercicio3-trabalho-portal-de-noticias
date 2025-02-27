@@ -1,7 +1,7 @@
 # [PCD1][Ex. 4] Trabalho em Equipes
 
 - **Valor:** 5 pts AC
-- **Data de entrega:** 28/10, próxima quarta-feira
+- **Data de entrega:** 06/10, próxima quinta-feira
 - **Modalidade:** grupos
 
 ## Instruções
