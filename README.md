@@ -1,7 +1,7 @@
 # [PCD1][Ex. 4] Trabalho em Equipes
 
 - **Valor:** 5 pts AC
-- **Data de entrega:** 06/10, próxima quinta-feira
+- **Data de entrega:** 06/03, próxima quinta-feira (data temporária)
 - **Modalidade:** grupos
 
 ## Instruções
@@ -22,4 +22,4 @@ O grupo deverá criar um **Portal de Notícias** de uma das **Ligas Estudantis d
 ## Entrega
 
 - Abertura de **Pull Request** neste repositório
-- Apresentação do Portal no dia 28/10.
+- Apresentação do Portal no dia 06/03.
