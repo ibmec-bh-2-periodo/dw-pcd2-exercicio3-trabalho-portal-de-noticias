@@ -1,4 +1,4 @@
-# [PCD1][Ex. 4] Trabalho em Equipes
+# [PCD1][Ex. 3] Trabalho em Equipes
 
 - **Valor:** 5 pts AC
 - **Data de entrega:** 19/03, quarta-feira
